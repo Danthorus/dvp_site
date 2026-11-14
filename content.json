@@ -1,0 +1,1011 @@
+{
+  "source": "https://domaine-du-val-pendragon.webador.fr",
+  "capturedAt": "2026-11-13T22:54:54.772Z",
+  "pages": [
+    {
+      "path": "/",
+      "label": "Accueil",
+      "key": "index",
+      "nodes": [
+        {
+          "id": "page-0-0",
+          "tag": "h1",
+          "html": "Accueil",
+          "text": "Accueil"
+        },
+        {
+          "id": "page-0-1",
+          "tag": "h1",
+          "html": "Offrez-vous la légende au Domaine du Val Pendragon!",
+          "text": "Offrez-vous la légende au Domaine du Val Pendragon!"
+        },
+        {
+          "id": "page-0-2",
+          "tag": "h3",
+          "html": "<br>Élevage de chevaux de sport et pension en grandes prairies au cœur de la forêt de Brocéliande",
+          "text": "Élevage de chevaux de sport et pension en grandes prairies au cœur de la forêt de Brocéliande"
+        },
+        {
+          "id": "page-0-3",
+          "tag": "p",
+          "html": "Le Domaine du Val Pendragon se situe<strong> à Muel</strong>, à 35 minutes à l'ouest de Rennes.",
+          "text": "Le Domaine du Val Pendragon se situe à Muel, à 35 minutes à l'ouest de Rennes."
+        },
+        {
+          "id": "page-0-4",
+          "tag": "p",
+          "html": "Niché au cœur&nbsp;de la mythique forêt de Brocéliande, notre domaine offre <strong>23 hectares</strong> aux chevaux d'élevage, aux pensionnaires et à leurs cavaliers une parenthèse préservée, véritable retour à la nature et à la liberté.",
+          "text": "Niché au cœur de la mythique forêt de Brocéliande, notre domaine offre 23 hectares aux chevaux d'élevage, aux pensionnaires et à leurs cavaliers une parenthèse préservée, véritable retour à la nature et à la liberté."
+        },
+        {
+          "id": "page-0-5",
+          "tag": "p",
+          "html": "Fondé en 2022, le domaine ne cesse de se développer pour proposer des aménagements toujours plus adaptés et performants.",
+          "text": "Fondé en 2022, le domaine ne cesse de se développer pour proposer des aménagements toujours plus adaptés et performants."
+        },
+        {
+          "id": "page-0-6",
+          "tag": "p",
+          "html": "<br><strong>Suivez-nous sur les réseaux :</strong>",
+          "text": "Suivez-nous sur les réseaux :"
+        }
+      ],
+      "images": [],
+      "banners": [
+        {
+          "url": "https://primary.jwwb.nl/public/o/m/i/temp-vcubilpemsuwkhasrwqb/7339aef5-89f5-4956-a5fb-5460282b8e50.jpeg?enable-io=true&enable=upscale&crop=1600%2C752%2Cx0%2Cy224%2Csafe&width=1020&height=479",
+          "alt": "",
+          "local": "assets/photos/7339aef5-89f5-4956-a5fb-5460282b8e50.jpeg",
+          "sha256": "c88ea1e0eddeb599fbc37b4b8b12aa0bc666809a9fe366afd9e3780efb310b29",
+          "originalUrl": "https://primary.jwwb.nl/public/o/m/i/temp-vcubilpemsuwkhasrwqb/7339aef5-89f5-4956-a5fb-5460282b8e50.jpeg"
+        }
+      ],
+      "logo": {
+        "url": "https://primary.jwwb.nl/public/o/m/i/temp-vcubilpemsuwkhasrwqb/i3xx37/20230619_logo-valpendragon_v2_blason-1.png?enable-io=true&enable=upscale&height=70",
+        "alt": "Domaine du Val Pendragon",
+        "local": "assets/photos/20230619_logo-valpendragon_v2_blason-1.png",
+        "sha256": "f4bc17d7786a0e29cd052f6d50c147541019f915fe57737c858e1f8651495475",
+        "originalUrl": "https://primary.jwwb.nl/public/o/m/i/temp-vcubilpemsuwkhasrwqb/i3xx37/20230619_logo-valpendragon_v2_blason-1.png"
+      },
+      "social": [
+        {
+          "label": "Facebook",
+          "href": "https://facebook.com/profile.php?id=100092726184827"
+        },
+        {
+          "label": "Instagram",
+          "href": "https://instagram.com/domaine_du_val_pendragon"
+        }
+      ],
+      "copyright": "© 2023 - 2026 Domaine du Val Pendragon",
+      "form": null
+    },
+    {
+      "path": "/une-pension-au-naturel-pour-les-chevaux",
+      "label": "Une pension au naturel pour les chevaux",
+      "key": "une-pension-au-naturel-pour-les-chevaux",
+      "nodes": [
+        {
+          "id": "page-1-0",
+          "tag": "h2",
+          "html": "Une pension au naturel pour les chevaux",
+          "text": "Une pension au naturel pour les chevaux"
+        },
+        {
+          "id": "page-1-1",
+          "tag": "p",
+          "html": "<strong>Offrez-lui des pâtures de légende en Brocéliande !</strong>",
+          "text": "Offrez-lui des pâtures de légende en Brocéliande !"
+        },
+        {
+          "id": "page-1-2",
+          "tag": "p",
+          "html": "Offrez à votre cheval une vie au grand air dans un cadre naturel préservé. Notre mode d'hébergement s'inspire directement des besoins fondamentaux du cheval, articulé autour des <strong>3F</strong> : <strong>Freedom</strong> (Liberté), <strong>Friends</strong> (Amis) et <strong>Food</strong> (Nourriture).",
+          "text": "Offrez à votre cheval une vie au grand air dans un cadre naturel préservé. Notre mode d'hébergement s'inspire directement des besoins fondamentaux du cheval, articulé autour des 3F : Freedom (Liberté), Friends (Amis) et Food (Nourriture)."
+        },
+        {
+          "id": "page-1-3",
+          "tag": "h4",
+          "html": "Un mode de vie grégaire, serein et sécurisé",
+          "text": "Un mode de vie grégaire, serein et sécurisé"
+        },
+        {
+          "id": "page-1-4",
+          "tag": "ul",
+          "html": "\n<li>\n<p><strong>Vie en troupeau harmonieux</strong> : les chevaux évoluent en petits groupes stables de 3 à 5 individus sur de vastes prairies de 1 à 5 hectares, équipées d'abris pour leur confort. L'intégration de chaque nouveau pensionnaire se fait progressivement pour préserver la sérénité du groupe.</p>\n</li>\n<li>\n<p><strong>Sécurité maximale</strong> : parcelles entièrement closes par des rubans électrifiés sur 3 hauteurs, équipées de sas de sécurité pour des manipulations en toute tranquillité.</p>\n</li>\n",
+          "text": "Vie en troupeau harmonieux : les chevaux évoluent en petits groupes stables de 3 à 5 individus sur de vastes prairies de 1 à 5 hectares, équipées d'abris pour leur confort. L'intégration de chaque nouveau pensionnaire se fait progressivement pour préserver la sérénité du groupe. Sécurité maximale : parcelles entièrement closes par des rubans électrifiés sur 3 hauteurs, équipées de sas de sécurité pour des manipulations en toute tranquillité."
+        },
+        {
+          "id": "page-1-5",
+          "tag": "h4",
+          "html": "Gestion raisonnée des pâtures &amp; nutrition sur mesure",
+          "text": "Gestion raisonnée des pâtures & nutrition sur mesure"
+        },
+        {
+          "id": "page-1-6",
+          "tag": "ul",
+          "html": "\n<li>\n<p><strong>Pâturage tournant</strong> : une rotation réfléchie des prairies pour garantir une herbe de qualité tout au long de l'année et préserver la santé des sols.</p>\n</li>\n<li>\n<p><strong>Alimentation naturelle et de qualité</strong> : en hiver ou en période de sécheresse, nous distribuons un foin biologique. Une partie est directement produite sur le domaine.</p>\n</li>\n<li>\n<p><strong>Suivi individuel</strong> : un apport en concentrés, minéraux et vitamines est ajusté sur mesure selon les besoins spécifiques de votre cheval.</p>\n</li>\n",
+          "text": "Pâturage tournant : une rotation réfléchie des prairies pour garantir une herbe de qualité tout au long de l'année et préserver la santé des sols. Alimentation naturelle et de qualité : en hiver ou en période de sécheresse, nous distribuons un foin biologique. Une partie est directement produite sur le domaine. Suivi individuel : un apport en concentrés, minéraux et vitamines est ajusté sur mesure selon les besoins spécifiques de votre cheval."
+        },
+        {
+          "id": "page-1-7",
+          "tag": "h4",
+          "html": "Soins spécifiques, infrastructures &amp; travail du cheval",
+          "text": "Soins spécifiques, infrastructures & travail du cheval"
+        },
+        {
+          "id": "page-1-8",
+          "tag": "ul",
+          "html": "\n<li>\n<p><strong>Espaces de soins et convalescence</strong> : pour les besoins particuliers (soins, convalescence, poulinage), le domaine dispose de 2 grands box spacieux de 4 x 4 m et de paddocks individuels sécurisés (10 x 10 m, 15 x 20 m, 20 x 20 m et 0.25 Ha).</p>\n</li>\n<li>\n<p><strong>Travail et accompagnement du cheval</strong> : nous proposons des prestations adaptées à votre monture (travail monté, manipulation à pied, entretien physique ou débourrage).</p>\n</li>\n<li>\n<p><strong>Réseau de professionnels</strong> : bénéficiez de tarifs préférentiels auprès de nos partenaires sélectionnés avec soin (enseignants, intervenants spécialisés), tout en conservant la liberté de faire venir les intervenants de votre choix.</p>\n</li>\n",
+          "text": "Espaces de soins et convalescence : pour les besoins particuliers (soins, convalescence, poulinage), le domaine dispose de 2 grands box spacieux de 4 x 4 m et de paddocks individuels sécurisés (10 x 10 m, 15 x 20 m, 20 x 20 m et 0.25 Ha). Travail et accompagnement du cheval : nous proposons des prestations adaptées à votre monture (travail monté, manipulation à pied, entretien physique ou débourrage). Réseau de professionnels : bénéficiez de tarifs préférentiels auprès de nos partenaires sélectionnés avec soin (enseignants, intervenants spécialisés), tout en conservant la liberté de faire venir les intervenants de votre choix."
+        },
+        {
+          "id": "page-1-9",
+          "tag": "p",
+          "html": "<strong>Suivez-nous sur les réseaux :</strong>",
+          "text": "Suivez-nous sur les réseaux :"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://primary.jwwb.nl/public/o/m/i/temp-vcubilpemsuwkhasrwqb/1005a4bd-683c-410f-953f-46524c5f9246.jpeg",
+          "alt": "",
+          "local": "assets/photos/1005a4bd-683c-410f-953f-46524c5f9246.jpeg",
+          "sha256": "ccd4a99631aca54fe3dd60f5fe4ebb05e22044befed7abed5aed1a5b39b356bc",
+          "originalUrl": "https://primary.jwwb.nl/public/o/m/i/temp-vcubilpemsuwkhasrwqb/1005a4bd-683c-410f-953f-46524c5f9246.jpeg"
+        }
+      ],
+      "banners": [],
+      "logo": {
+        "url": "https://primary.jwwb.nl/public/o/m/i/temp-vcubilpemsuwkhasrwqb/i3xx37/20230619_logo-valpendragon_v2_blason-1.png?enable-io=true&enable=upscale&height=70",
+        "alt": "Domaine du Val Pendragon",
+        "local": "assets/photos/20230619_logo-valpendragon_v2_blason-1.png",
+        "sha256": "f4bc17d7786a0e29cd052f6d50c147541019f915fe57737c858e1f8651495475",
+        "originalUrl": "https://primary.jwwb.nl/public/o/m/i/temp-vcubilpemsuwkhasrwqb/i3xx37/20230619_logo-valpendragon_v2_blason-1.png"
+      },
+      "social": [
+        {
+          "label": "Facebook",
+          "href": "https://facebook.com/profile.php?id=100092726184827"
+        },
+        {
+          "label": "Instagram",
+          "href": "https://instagram.com/domaine_du_val_pendragon"
+        }
+      ],
+      "copyright": "© 2023 - 2026 Domaine du Val Pendragon",
+      "form": null
+    },
+    {
+      "path": "/une-experience-authentique-et-sportive-pour-les-cavaliers",
+      "label": "Une expérience authentique et sportive pour les cavaliers",
+      "key": "une-experience-authentique-et-sportive-pour-les-cavaliers",
+      "nodes": [
+        {
+          "id": "page-2-0",
+          "tag": "h2",
+          "html": "Une expérience authentique et sportive pour les cavaliers",
+          "text": "Une expérience authentique et sportive pour les cavaliers"
+        },
+        {
+          "id": "page-2-1",
+          "tag": "p",
+          "html": "<strong>Offrez-vous des terres de légende en Brocéliande !</strong>",
+          "text": "Offrez-vous des terres de légende en Brocéliande !"
+        },
+        {
+          "id": "page-2-2",
+          "tag": "p",
+          "html": "Au Domaine du Val Pendragon, nous offrons aux cavaliers un cadre naturel d'exception, pensé pour allier passion et performance, mais aussi sérénité et convivialité.",
+          "text": "Au Domaine du Val Pendragon, nous offrons aux cavaliers un cadre naturel d'exception, pensé pour allier passion et performance, mais aussi sérénité et convivialité."
+        },
+        {
+          "id": "page-2-3",
+          "tag": "h4",
+          "html": "11 000 hectares de forêt en accès direct",
+          "text": "11 000 hectares de forêt en accès direct"
+        },
+        {
+          "id": "page-2-4",
+          "tag": "p",
+          "html": "Pour une balade, un trotting ou une randonnée: évadez-vous directement depuis les écuries.",
+          "text": "Pour une balade, un trotting ou une randonnée: évadez-vous directement depuis les écuries."
+        },
+        {
+          "id": "page-2-5",
+          "tag": "ul",
+          "html": "\n<li>\n<p><strong>Accès immédiat</strong> aux 11 000 hectares de la mythique forêt de Brocéliande.</p>\n</li>\n<li>\n<p><strong>Accès direct à l’Équibreizh</strong> : le célèbre itinéraire de randonnée équestre breton traverse le domaine.</p>\n</li>\n",
+          "text": "Accès immédiat aux 11 000 hectares de la mythique forêt de Brocéliande. Accès direct à l’Équibreizh : le célèbre itinéraire de randonnée équestre breton traverse le domaine."
+        },
+        {
+          "id": "page-2-6",
+          "tag": "h4",
+          "html": "Des infrastructures de travail de qualité",
+          "text": "Des infrastructures de travail de qualité"
+        },
+        {
+          "id": "page-2-7",
+          "tag": "p",
+          "html": "Pour le travail de vos chevaux, le domaine met à votre disposition des équipements confortables, performants et sécurisés :",
+          "text": "Pour le travail de vos chevaux, le domaine met à votre disposition des équipements confortables, performants et sécurisés :"
+        },
+        {
+          "id": "page-2-8",
+          "tag": "ul",
+          "html": "\n<li>\n<p><strong>Grande carrière de 30 x 70 m éclairée</strong>&nbsp;en sable de la baie de Saint-Brieuc, offrant un sol de qualité optimale toute l'année.</p>\n</li>\n<li>\n<p><strong>Parc d'obstacles complet</strong> et évolutif.</p>\n</li>\n<li><strong>Spring garden de 0,5 ha</strong> pour le travail sur le relief, la franchise et la préparation aux terrains variés.</li>\n",
+          "text": "Grande carrière de 30 x 70 m éclairée en sable de la baie de Saint-Brieuc, offrant un sol de qualité optimale toute l'année. Parc d'obstacles complet et évolutif. Spring garden de 0,5 ha pour le travail sur le relief, la franchise et la préparation aux terrains variés."
+        },
+        {
+          "id": "page-2-9",
+          "tag": "h4",
+          "html": "Confort, soins &amp; moments partagés",
+          "text": "Confort, soins & moments partagés"
+        },
+        {
+          "id": "page-2-10",
+          "tag": "p",
+          "html": "Pour préparer votre monture, en prendre soin ou simplement partager un moment entre cavaliers, vous bénéficiez d'équipements pratiques au quotidien :",
+          "text": "Pour préparer votre monture, en prendre soin ou simplement partager un moment entre cavaliers, vous bénéficiez d'équipements pratiques au quotidien :"
+        },
+        {
+          "id": "page-2-11",
+          "tag": "ul",
+          "html": "\n<li>\n<p><strong>Sellerie sécurisée</strong> et aménagée.</p>\n</li>\n<li>\n<p><strong>Aire de pansage abritée, éclairée </strong>et fonctionnelle.</p>\n</li>\n<li>\n<p><strong>Espace douche</strong> pour le bien-être de vos chevaux.</p>\n</li>\n<li>\n<p><strong>Une ambiance conviviale&nbsp;</strong>où l'on prend plaisir à se retrouver, échanger et organiser des sorties ensemble !</p>\n</li>\n",
+          "text": "Sellerie sécurisée et aménagée. Aire de pansage abritée, éclairée et fonctionnelle. Espace douche pour le bien-être de vos chevaux. Une ambiance conviviale où l'on prend plaisir à se retrouver, échanger et organiser des sorties ensemble !"
+        },
+        {
+          "id": "page-2-12",
+          "tag": "h4",
+          "html": "Cours, coaching &amp; accompagnement sur mesure",
+          "text": "Cours, coaching & accompagnement sur mesure"
+        },
+        {
+          "id": "page-2-13",
+          "tag": "p",
+          "html": "Que vous souhaitiez faire évoluer votre couple, retravailler les bases ou performer en concours, nous proposons des formules adaptées et variées:",
+          "text": "Que vous souhaitiez faire évoluer votre couple, retravailler les bases ou performer en concours, nous proposons des formules adaptées et variées:"
+        },
+        {
+          "id": "page-2-14",
+          "tag": "ul",
+          "html": "\n<li>\n<p><strong>Un suivi adapté à tous les objectifs :</strong> du loisir à la compétition, du jeune cheval en apprentissage au cheval de sport.</p>\n</li>\n<li>\n<p><strong>Des formats souples pour le cavalier :</strong> cours particuliers, cours individuels ou coaching en concours.&nbsp;</p>\n</li>\n<li>\n<p><strong>Des prestations variées pour le cheval:</strong> travail monté, travail à pied, débourrage et perfectionnement.</p>\n</li>\n<li>\n<p><strong>Des stages thématiques</strong> tout au long de l'année dans différentes disciplines.</p>\n</li>\n<li><strong>Liberté de choix</strong> : profitez de notre réseau de partenaires diplômés ou faites venir l'intervenant extérieur de votre choix.</li>\n",
+          "text": "Un suivi adapté à tous les objectifs : du loisir à la compétition, du jeune cheval en apprentissage au cheval de sport. Des formats souples pour le cavalier : cours particuliers, cours individuels ou coaching en concours. Des prestations variées pour le cheval: travail monté, travail à pied, débourrage et perfectionnement. Des stages thématiques tout au long de l'année dans différentes disciplines. Liberté de choix : profitez de notre réseau de partenaires diplômés ou faites venir l'intervenant extérieur de votre choix."
+        },
+        {
+          "id": "page-2-15",
+          "tag": "p",
+          "html": "<strong>Suivez-nous sur les réseaux :</strong>",
+          "text": "Suivez-nous sur les réseaux :"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://primary.jwwb.nl/public/o/m/i/temp-vcubilpemsuwkhasrwqb/fccbb2f1-2352-4dab-aaae-cc7839764284-high-668h8a.jpg?enable-io=true&enable=upscale&crop=0.8451%3A1%2Coffset-x27%2Coffset-y55&width=800",
+          "alt": "",
+          "local": "assets/photos/fccbb2f1-2352-4dab-aaae-cc7839764284-high-668h8a.jpg",
+          "sha256": "3d344feb466f40ac2f7b277a479096d34c38dbc2c94cf2c342b8641cb6fa3a0e",
+          "originalUrl": "https://primary.jwwb.nl/public/o/m/i/temp-vcubilpemsuwkhasrwqb/fccbb2f1-2352-4dab-aaae-cc7839764284-high-668h8a.jpg"
+        },
+        {
+          "url": "https://primary.jwwb.nl/public/o/m/i/temp-vcubilpemsuwkhasrwqb/image-high.png?enable-io=true&enable=upscale&crop=1.1943%3A1&width=800",
+          "alt": "",
+          "local": "assets/photos/image-high.png",
+          "sha256": "3b35ceca38a8d55712b9aff86cb86a94ca538ac413b9b94ee7ef3ce5b2f13173",
+          "originalUrl": "https://primary.jwwb.nl/public/o/m/i/temp-vcubilpemsuwkhasrwqb/image-high.png"
+        },
+        {
+          "url": "https://primary.jwwb.nl/public/o/m/i/temp-vcubilpemsuwkhasrwqb/img_4089-high.jpg?enable-io=true&enable=upscale&crop=0.918%3A1%2Coffset-y76&width=800",
+          "alt": "",
+          "local": "assets/photos/img_4089-high.jpg",
+          "sha256": "b6e92622a8b2080222a9c3153d7f62f1f8c87a218ec96818a17bc2e2219d8620",
+          "originalUrl": "https://primary.jwwb.nl/public/o/m/i/temp-vcubilpemsuwkhasrwqb/img_4089-high.jpg"
+        },
+        {
+          "url": "https://primary.jwwb.nl/public/o/m/i/temp-vcubilpemsuwkhasrwqb/img_8099-high.jpg?enable-io=true&enable=upscale&crop=1.5257%3A1%2Coffset-x69&width=800",
+          "alt": "",
+          "local": "assets/photos/img_8099-high.jpg",
+          "sha256": "0c1018efb2fdaeb752562f6913b5bc990c26a0df8ed0f5c5ba93297fbdbac799",
+          "originalUrl": "https://primary.jwwb.nl/public/o/m/i/temp-vcubilpemsuwkhasrwqb/img_8099-high.jpg"
+        },
+        {
+          "url": "https://primary.jwwb.nl/public/o/m/i/temp-vcubilpemsuwkhasrwqb/86430fb3-3617-4b82-a512-24c52e812133-high.jpg?enable-io=true&enable=upscale&crop=1.4992%3A1%2Coffset-y100&width=800",
+          "alt": "",
+          "local": "assets/photos/86430fb3-3617-4b82-a512-24c52e812133-high.jpg",
+          "sha256": "10d23fd49dbea2a8037708269754266cbb7ddb5c591ddfa7b8faafae047594d2",
+          "originalUrl": "https://primary.jwwb.nl/public/o/m/i/temp-vcubilpemsuwkhasrwqb/86430fb3-3617-4b82-a512-24c52e812133-high.jpg"
+        }
+      ],
+      "banners": [],
+      "logo": {
+        "url": "https://primary.jwwb.nl/public/o/m/i/temp-vcubilpemsuwkhasrwqb/i3xx37/20230619_logo-valpendragon_v2_blason-1.png?enable-io=true&enable=upscale&height=70",
+        "alt": "Domaine du Val Pendragon",
+        "local": "assets/photos/20230619_logo-valpendragon_v2_blason-1.png",
+        "sha256": "f4bc17d7786a0e29cd052f6d50c147541019f915fe57737c858e1f8651495475",
+        "originalUrl": "https://primary.jwwb.nl/public/o/m/i/temp-vcubilpemsuwkhasrwqb/i3xx37/20230619_logo-valpendragon_v2_blason-1.png"
+      },
+      "social": [
+        {
+          "label": "Facebook",
+          "href": "https://facebook.com/profile.php?id=100092726184827"
+        },
+        {
+          "label": "Instagram",
+          "href": "https://instagram.com/domaine_du_val_pendragon"
+        }
+      ],
+      "copyright": "© 2023 - 2026 Domaine du Val Pendragon",
+      "form": null
+    },
+    {
+      "path": "/prestations-tarifs",
+      "label": "Prestations/Tarifs",
+      "key": "prestations-tarifs",
+      "nodes": [
+        {
+          "id": "page-3-0",
+          "tag": "h2",
+          "html": "Prestations",
+          "text": "Prestations"
+        },
+        {
+          "id": "page-3-1",
+          "tag": "p",
+          "html": "<strong>Offrez vous des prestations de légendes !</strong>",
+          "text": "Offrez vous des prestations de légendes !"
+        },
+        {
+          "id": "page-3-2",
+          "tag": "h4",
+          "html": "Pension pré collectif",
+          "text": "Pension pré collectif"
+        },
+        {
+          "id": "page-3-3",
+          "tag": "p",
+          "html": "170€/mois",
+          "text": "170€/mois"
+        },
+        {
+          "id": "page-3-4",
+          "tag": "p",
+          "html": "<em>Comprend la mise à l’herbe en petits groupes de 3-5 chevaux sur de grandes prairies de 1 à 5ha, l’eau,&nbsp;la surveillance quotidienne et l’accès aux installations. L'hiver: ajout de foin, concentré/CMV et pré avec abri</em>",
+          "text": "Comprend la mise à l’herbe en petits groupes de 3-5 chevaux sur de grandes prairies de 1 à 5ha, l’eau, la surveillance quotidienne et l’accès aux installations. L'hiver: ajout de foin, concentré/CMV et pré avec abri"
+        },
+        {
+          "id": "page-3-5",
+          "tag": "h4",
+          "html": "Pension pré individuel",
+          "text": "Pension pré individuel"
+        },
+        {
+          "id": "page-3-6",
+          "tag": "p",
+          "html": "220€/mois",
+          "text": "220€/mois"
+        },
+        {
+          "id": "page-3-7",
+          "tag": "p",
+          "html": "<em>Comprend la mise à l’herbe en pré individuel, l’eau,&nbsp;la surveillance quotidienne et l’accès aux installations. L'hiver: ajout de foin, concentré/CMV et pré avec abri</em>",
+          "text": "Comprend la mise à l’herbe en pré individuel, l’eau, la surveillance quotidienne et l’accès aux installations. L'hiver: ajout de foin, concentré/CMV et pré avec abri"
+        },
+        {
+          "id": "page-3-8",
+          "tag": "h4",
+          "html": "Pension de passage",
+          "text": "Pension de passage"
+        },
+        {
+          "id": "page-3-9",
+          "tag": "p",
+          "html": "12€/jour - 55€/semaine",
+          "text": "12€/jour - 55€/semaine"
+        },
+        {
+          "id": "page-3-10",
+          "tag": "p",
+          "html": "<em>Comprend la mise à disposition d’un pré, l’eau, la surveillance quotidienne et l’accès aux installations</em>",
+          "text": "Comprend la mise à disposition d’un pré, l’eau, la surveillance quotidienne et l’accès aux installations"
+        },
+        {
+          "id": "page-3-11",
+          "tag": "h4",
+          "html": "Pension coaching&nbsp;",
+          "text": "Pension coaching"
+        },
+        {
+          "id": "page-3-12",
+          "tag": "p",
+          "html": "à partir de 230€/mois",
+          "text": "à partir de 230€/mois"
+        },
+        {
+          "id": "page-3-13",
+          "tag": "p",
+          "html": "<em>Comprend la pension pré collectif ou pré individuel et 1 cours collectif/semaine</em>",
+          "text": "Comprend la pension pré collectif ou pré individuel et 1 cours collectif/semaine"
+        },
+        {
+          "id": "page-3-14",
+          "tag": "h4",
+          "html": "Pension travail&nbsp;",
+          "text": "Pension travail"
+        },
+        {
+          "id": "page-3-15",
+          "tag": "p",
+          "html": "à partir de 460€/mois",
+          "text": "à partir de 460€/mois"
+        },
+        {
+          "id": "page-3-16",
+          "tag": "p",
+          "html": "<em>Comprend la pension pré collectif ou pré individuel et 3 séances/semaine</em>",
+          "text": "Comprend la pension pré collectif ou pré individuel et 3 séances/semaine"
+        },
+        {
+          "id": "page-3-17",
+          "tag": "h4",
+          "html": "Pension débourrage&nbsp;",
+          "text": "Pension débourrage"
+        },
+        {
+          "id": "page-3-18",
+          "tag": "p",
+          "html": "à partir de 510€/mois",
+          "text": "à partir de 510€/mois"
+        },
+        {
+          "id": "page-3-19",
+          "tag": "p",
+          "html": "<em>Comprend la pension pré individuel et 3 séances/semaine</em>",
+          "text": "Comprend la pension pré individuel et 3 séances/semaine"
+        },
+        {
+          "id": "page-3-20",
+          "tag": "h4",
+          "html": "Location d'installations",
+          "text": "Location d'installations"
+        },
+        {
+          "id": "page-3-21",
+          "tag": "p",
+          "html": "5€/heure/cheval",
+          "text": "5€/heure/cheval"
+        },
+        {
+          "id": "page-3-22",
+          "tag": "p",
+          "html": "<em>Comprend l'accès à la carrière 30x70m, à son parc d'obstacles, à la douche, à la forêt et au parking vans/camions</em>",
+          "text": "Comprend l'accès à la carrière 30x70m, à son parc d'obstacles, à la douche, à la forêt et au parking vans/camions"
+        },
+        {
+          "id": "page-3-23",
+          "tag": "h4",
+          "html": "Vente de chevaux",
+          "text": "Vente de chevaux"
+        },
+        {
+          "id": "page-3-24",
+          "tag": "p",
+          "html": "à partir de 2 000€",
+          "text": "à partir de 2 000€"
+        },
+        {
+          "id": "page-3-25",
+          "tag": "p",
+          "html": "<em>A définir selon le cheval, son âge et ses origines</em>",
+          "text": "A définir selon le cheval, son âge et ses origines"
+        },
+        {
+          "id": "page-3-26",
+          "tag": "h4",
+          "html": "Autres prestations ",
+          "text": "Autres prestations"
+        },
+        {
+          "id": "page-3-27",
+          "tag": "p",
+          "html": "sur demande",
+          "text": "sur demande"
+        },
+        {
+          "id": "page-3-28",
+          "tag": "p",
+          "html": "<strong>Suivez-nous sur les réseaux :</strong>",
+          "text": "Suivez-nous sur les réseaux :"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://primary.jwwb.nl/public/o/m/i/temp-vcubilpemsuwkhasrwqb/5953094d-a712-488c-9a07-b0213f652e7b.jpeg",
+          "alt": "",
+          "local": "assets/photos/5953094d-a712-488c-9a07-b0213f652e7b.jpeg",
+          "sha256": "ccd4a99631aca54fe3dd60f5fe4ebb05e22044befed7abed5aed1a5b39b356bc",
+          "originalUrl": "https://primary.jwwb.nl/public/o/m/i/temp-vcubilpemsuwkhasrwqb/5953094d-a712-488c-9a07-b0213f652e7b.jpeg"
+        }
+      ],
+      "banners": [],
+      "logo": {
+        "url": "https://primary.jwwb.nl/public/o/m/i/temp-vcubilpemsuwkhasrwqb/i3xx37/20230619_logo-valpendragon_v2_blason-1.png?enable-io=true&enable=upscale&height=70",
+        "alt": "Domaine du Val Pendragon",
+        "local": "assets/photos/20230619_logo-valpendragon_v2_blason-1.png",
+        "sha256": "f4bc17d7786a0e29cd052f6d50c147541019f915fe57737c858e1f8651495475",
+        "originalUrl": "https://primary.jwwb.nl/public/o/m/i/temp-vcubilpemsuwkhasrwqb/i3xx37/20230619_logo-valpendragon_v2_blason-1.png"
+      },
+      "social": [
+        {
+          "label": "Facebook",
+          "href": "https://facebook.com/profile.php?id=100092726184827"
+        },
+        {
+          "label": "Instagram",
+          "href": "https://instagram.com/domaine_du_val_pendragon"
+        }
+      ],
+      "copyright": "© 2023 - 2026 Domaine du Val Pendragon",
+      "form": null
+    },
+    {
+      "path": "/l-elevage",
+      "label": "L’élevage",
+      "key": "l-elevage",
+      "nodes": [
+        {
+          "id": "page-4-0",
+          "tag": "h2",
+          "html": "L’élevage",
+          "text": "L’élevage"
+        },
+        {
+          "id": "page-4-1",
+          "tag": "p",
+          "html": "<strong>Offrez-vous un poulain de légende en Brocéliande!</strong>",
+          "text": "Offrez-vous un poulain de légende en Brocéliande!"
+        },
+        {
+          "id": "page-4-2",
+          "tag": "p",
+          "html": "<br>3 poulinières <strong>Selles francais</strong>&nbsp;de grandes <strong>origines</strong> constituent l'équipe d'élevage. Nous souhaitons garantir annuellement une petite production de poulains d'exception de <strong>CSO, </strong>élèvés dans un<strong>&nbsp;cadre familial</strong>&nbsp;!&nbsp;",
+          "text": "3 poulinières Selles francais de grandes origines constituent l'équipe d'élevage. Nous souhaitons garantir annuellement une petite production de poulains d'exception de CSO, élèvés dans un cadre familial !"
+        },
+        {
+          "id": "page-4-3",
+          "tag": "p",
+          "html": "Nos poulains sont manipulés et sont disponibles à partir de leur sevrage vers 8-9mois. Ils sont à jour de leur vermifugation/vaccins et partent avec un certificat vétérinaire de bonne santé.",
+          "text": "Nos poulains sont manipulés et sont disponibles à partir de leur sevrage vers 8-9mois. Ils sont à jour de leur vermifugation/vaccins et partent avec un certificat vétérinaire de bonne santé."
+        },
+        {
+          "id": "page-4-4",
+          "tag": "h3",
+          "html": "Les poulains de 2024 disponibles à la vente:",
+          "text": "Les poulains de 2024 disponibles à la vente:"
+        },
+        {
+          "id": "page-4-5",
+          "tag": "p",
+          "html": "- <strong>Origin du Val Pendragon</strong>, poulain bai mâle Selle Français par Vesta du Vailere (SF par Johnny Boy II par Dollar du Murier) et&nbsp;<strong>Consul Dl Vie&nbsp;</strong>(Z par Clinton et par Tuut Tuut par Heartbreaker) - né le 17/05/2024 - qualités: chic, taille, puissance",
+          "text": "- Origin du Val Pendragon, poulain bai mâle Selle Français par Vesta du Vailere (SF par Johnny Boy II par Dollar du Murier) et Consul Dl Vie (Z par Clinton et par Tuut Tuut par Heartbreaker) - né le 17/05/2024 - qualités: chic, taille, puissance"
+        },
+        {
+          "id": "page-4-6",
+          "tag": "h3",
+          "html": "<br>Les poulains qui sont attendus pour 2026:",
+          "text": "Les poulains qui sont attendus pour 2026:"
+        },
+        {
+          "id": "page-4-7",
+          "tag": "p",
+          "html": "<br>- poulain par&nbsp;<strong>Conte Bellini</strong> (SF Z par Cornet Obolensky et Ramiro Z) et Vesta du Vailere (SF par Johnny Boy II par Dollar du Murier)&nbsp;",
+          "text": "- poulain par Conte Bellini (SF Z par Cornet Obolensky et Ramiro Z) et Vesta du Vailere (SF par Johnny Boy II par Dollar du Murier)"
+        },
+        {
+          "id": "page-4-8",
+          "tag": "p",
+          "html": "<br>- poulain par <strong>Otto Mail&nbsp;</strong>(SF par Weltmeyer et par Hans in Glove) et Djebelle de la Bride (SF par Safari d'Auge par Diamant de Semilly)<br><br>",
+          "text": "- poulain par Otto Mail (SF par Weltmeyer et par Hans in Glove) et Djebelle de la Bride (SF par Safari d'Auge par Diamant de Semilly)"
+        },
+        {
+          "id": "page-4-9",
+          "tag": "p",
+          "html": "- poulain par&nbsp;<strong>Semilly de Luppy</strong>&nbsp;(SF par Helios de la Cour par Quickstar) et Jayana du Tachen (SF par Conte Bellini par Idéal de la Loge)&nbsp;",
+          "text": "- poulain par Semilly de Luppy (SF par Helios de la Cour par Quickstar) et Jayana du Tachen (SF par Conte Bellini par Idéal de la Loge)"
+        },
+        {
+          "id": "page-4-10",
+          "tag": "p",
+          "html": "<strong>Suivez-nous sur les réseaux :</strong>",
+          "text": "Suivez-nous sur les réseaux :"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://primary.jwwb.nl/public/o/m/i/temp-vcubilpemsuwkhasrwqb/31a4ff08-bad5-4ebf-9679-5328eb47aab2-standard.jpg",
+          "alt": "",
+          "local": "assets/photos/31a4ff08-bad5-4ebf-9679-5328eb47aab2-standard.jpg",
+          "sha256": "e3b31366949e1b5b6ff66cbbd50fa130641a9d07d2a76c977f0683d9e03a4a2a",
+          "originalUrl": "https://primary.jwwb.nl/public/o/m/i/temp-vcubilpemsuwkhasrwqb/31a4ff08-bad5-4ebf-9679-5328eb47aab2-standard.jpg"
+        },
+        {
+          "url": "https://primary.jwwb.nl/public/o/m/i/temp-vcubilpemsuwkhasrwqb/img_3817-standard.jpg",
+          "alt": "",
+          "local": "assets/photos/img_3817-standard.jpg",
+          "sha256": "122b65ddcca4dd9b44a767f7a8797d550edcb1a79bfa78688c57e03e5eb7e49a",
+          "originalUrl": "https://primary.jwwb.nl/public/o/m/i/temp-vcubilpemsuwkhasrwqb/img_3817-standard.jpg"
+        }
+      ],
+      "banners": [],
+      "logo": {
+        "url": "https://primary.jwwb.nl/public/o/m/i/temp-vcubilpemsuwkhasrwqb/i3xx37/20230619_logo-valpendragon_v2_blason-1.png?enable-io=true&enable=upscale&height=70",
+        "alt": "Domaine du Val Pendragon",
+        "local": "assets/photos/20230619_logo-valpendragon_v2_blason-1.png",
+        "sha256": "f4bc17d7786a0e29cd052f6d50c147541019f915fe57737c858e1f8651495475",
+        "originalUrl": "https://primary.jwwb.nl/public/o/m/i/temp-vcubilpemsuwkhasrwqb/i3xx37/20230619_logo-valpendragon_v2_blason-1.png"
+      },
+      "social": [
+        {
+          "label": "Facebook",
+          "href": "https://facebook.com/profile.php?id=100092726184827"
+        },
+        {
+          "label": "Instagram",
+          "href": "https://instagram.com/domaine_du_val_pendragon"
+        }
+      ],
+      "copyright": "© 2023 - 2026 Domaine du Val Pendragon",
+      "form": null
+    },
+    {
+      "path": "/a-vendre",
+      "label": "A vendre",
+      "key": "a-vendre",
+      "nodes": [
+        {
+          "id": "page-5-0",
+          "tag": "h2",
+          "html": "A vendre",
+          "text": "A vendre"
+        },
+        {
+          "id": "page-5-1",
+          "tag": "h3",
+          "html": "Poulains de 2024",
+          "text": "Poulains de 2024"
+        },
+        {
+          "id": "page-5-2",
+          "tag": "h3",
+          "html": "<br><strong>Origin Val Pendragon</strong>",
+          "text": "Origin Val Pendragon"
+        },
+        {
+          "id": "page-5-3",
+          "tag": "p",
+          "html": "poulain hongre",
+          "text": "poulain hongre"
+        },
+        {
+          "id": "page-5-4",
+          "tag": "p",
+          "html": "Selle Français",
+          "text": "Selle Français"
+        },
+        {
+          "id": "page-5-5",
+          "tag": "p",
+          "html": "né le 17/05/2024",
+          "text": "né le 17/05/2024"
+        },
+        {
+          "id": "page-5-6",
+          "tag": "p",
+          "html": "par<strong> Consul Dl Vie&nbsp;</strong>(Clinton x Heartbreaker)",
+          "text": "par Consul Dl Vie (Clinton x Heartbreaker)"
+        },
+        {
+          "id": "page-5-7",
+          "tag": "p",
+          "html": "par Vesta du Vailere (Johnny Boy II x Dollar du Murier)",
+          "text": "par Vesta du Vailere (Johnny Boy II x Dollar du Murier)"
+        },
+        {
+          "id": "page-5-8",
+          "tag": "p",
+          "html": "toisera dans les 1m70",
+          "text": "toisera dans les 1m70"
+        },
+        {
+          "id": "page-5-9",
+          "tag": "p",
+          "html": "qualités: <strong>chic, taille, puissance</strong>",
+          "text": "qualités: chic, taille, puissance"
+        },
+        {
+          "id": "page-5-10",
+          "tag": "p",
+          "html": "entre 5000 et 10000€",
+          "text": "entre 5000 et 10000€"
+        },
+        {
+          "id": "page-5-11",
+          "tag": "p",
+          "html": "<strong><br>Suivez-nous sur les réseaux :</strong>",
+          "text": "Suivez-nous sur les réseaux :"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://primary.jwwb.nl/public/o/m/i/temp-vcubilpemsuwkhasrwqb/img_3817-standard-1tt2lr.jpg",
+          "alt": "",
+          "local": "assets/photos/img_3817-standard-1tt2lr.jpg",
+          "sha256": "122b65ddcca4dd9b44a767f7a8797d550edcb1a79bfa78688c57e03e5eb7e49a",
+          "originalUrl": "https://primary.jwwb.nl/public/o/m/i/temp-vcubilpemsuwkhasrwqb/img_3817-standard-1tt2lr.jpg"
+        }
+      ],
+      "banners": [
+        {
+          "url": "https://primary.jwwb.nl/public/o/m/i/temp-vcubilpemsuwkhasrwqb/7339aef5-89f5-4956-a5fb-5460282b8e50.jpeg?enable-io=true&enable=upscale&crop=1600%2C752%2Cx0%2Cy224%2Csafe&width=1020&height=479",
+          "alt": "",
+          "local": "assets/photos/7339aef5-89f5-4956-a5fb-5460282b8e50.jpeg",
+          "sha256": "c88ea1e0eddeb599fbc37b4b8b12aa0bc666809a9fe366afd9e3780efb310b29",
+          "originalUrl": "https://primary.jwwb.nl/public/o/m/i/temp-vcubilpemsuwkhasrwqb/7339aef5-89f5-4956-a5fb-5460282b8e50.jpeg"
+        }
+      ],
+      "logo": {
+        "url": "https://primary.jwwb.nl/public/o/m/i/temp-vcubilpemsuwkhasrwqb/i3xx37/20230619_logo-valpendragon_v2_blason-1.png?enable-io=true&enable=upscale&height=70",
+        "alt": "Domaine du Val Pendragon",
+        "local": "assets/photos/20230619_logo-valpendragon_v2_blason-1.png",
+        "sha256": "f4bc17d7786a0e29cd052f6d50c147541019f915fe57737c858e1f8651495475",
+        "originalUrl": "https://primary.jwwb.nl/public/o/m/i/temp-vcubilpemsuwkhasrwqb/i3xx37/20230619_logo-valpendragon_v2_blason-1.png"
+      },
+      "social": [
+        {
+          "label": "Facebook",
+          "href": "https://facebook.com/profile.php?id=100092726184827"
+        },
+        {
+          "label": "Instagram",
+          "href": "https://instagram.com/domaine_du_val_pendragon"
+        }
+      ],
+      "copyright": "© 2023 - 2026 Domaine du Val Pendragon",
+      "form": null
+    },
+    {
+      "path": "/qui-sommes-nous",
+      "label": "Qui sommes-nous ?",
+      "key": "qui-sommes-nous",
+      "nodes": [
+        {
+          "id": "page-6-0",
+          "tag": "h2",
+          "html": "Qui sommes-nous ?",
+          "text": "Qui sommes-nous ?"
+        },
+        {
+          "id": "page-6-1",
+          "tag": "h4",
+          "html": "Une passion pour le bien-être animal et le sport",
+          "text": "Une passion pour le bien-être animal et le sport"
+        },
+        {
+          "id": "page-6-2",
+          "tag": "p",
+          "html": "<strong>Vétérinaire de profession, </strong>passionnée&nbsp;depuis l'enfance par la nature et les animaux, j'ai concrétisé cette vocation lors de mes études en Espagne de 2013 à 2017. J'ai pratiqué le CSO en compétition jusqu'en 125cm, décrochant notamment les titres de championne régionale (95 cm) et vice-championne régionale (1,15 m) avec ma jument anglo-hispano-arabe en Espagne.",
+          "text": "Vétérinaire de profession, passionnée depuis l'enfance par la nature et les animaux, j'ai concrétisé cette vocation lors de mes études en Espagne de 2013 à 2017. J'ai pratiqué le CSO en compétition jusqu'en 125cm, décrochant notamment les titres de championne régionale (95 cm) et vice-championne régionale (1,15 m) avec ma jument anglo-hispano-arabe en Espagne."
+        },
+        {
+          "id": "page-6-3",
+          "tag": "h4",
+          "html": "La naissance du Domaine du Val Pendragon",
+          "text": "La naissance du Domaine du Val Pendragon"
+        },
+        {
+          "id": "page-6-4",
+          "tag": "p",
+          "html": "Riche de ce parcours, j'ai souhaité créer un espace préservé pour installer mon élevage de chevaux de sport et offrir aux cavaliers une pension respectueuse des besoins fondamentaux du cheval. C'est à Brocéliande que ce projet a vu le jour en 2022.",
+          "text": "Riche de ce parcours, j'ai souhaité créer un espace préservé pour installer mon élevage de chevaux de sport et offrir aux cavaliers une pension respectueuse des besoins fondamentaux du cheval. C'est à Brocéliande que ce projet a vu le jour en 2022."
+        },
+        {
+          "id": "page-6-5",
+          "tag": "h4",
+          "html": "Une équipe de choc et un réseau de confiance",
+          "text": "Une équipe de choc et un réseau de confiance"
+        },
+        {
+          "id": "page-6-6",
+          "tag": "p",
+          "html": "Avec Thomas, mon mari, géologue de formation, nous mettons notre expérience et notre passion au service de votre sérénité et du bien-être de vos chevaux.",
+          "text": "Avec Thomas, mon mari, géologue de formation, nous mettons notre expérience et notre passion au service de votre sérénité et du bien-être de vos chevaux."
+        },
+        {
+          "id": "page-6-7",
+          "tag": "p",
+          "html": "Pour assurer un suivi de qualité, nous nous entourons de professionnels sélectionnés avec soin dont vous pouvez bénéficier à tarif préférentiel.",
+          "text": "Pour assurer un suivi de qualité, nous nous entourons de professionnels sélectionnés avec soin dont vous pouvez bénéficier à tarif préférentiel."
+        },
+        {
+          "id": "page-6-8",
+          "tag": "p",
+          "html": "Fidèles à notre volonté d'offrir un service sur mesure, nous restons aussi pleinement ouverts aux intervenants et coachs extérieurs.&nbsp;Ainsi, vous gardez la liberté de faire venir les professionnels de votre choix ou de profiter de nos partenaires.",
+          "text": "Fidèles à notre volonté d'offrir un service sur mesure, nous restons aussi pleinement ouverts aux intervenants et coachs extérieurs. Ainsi, vous gardez la liberté de faire venir les professionnels de votre choix ou de profiter de nos partenaires."
+        },
+        {
+          "id": "page-6-9",
+          "tag": "h4",
+          "html": "Une ambiance conviviale et à taille humaine",
+          "text": "Une ambiance conviviale et à taille humaine"
+        },
+        {
+          "id": "page-6-10",
+          "tag": "p",
+          "html": "Au-delà du cadre préservé et des soins rigoureux, le domaine est avant tout un lieu de vie familial et chaleureux. Nous tenons à préserver un esprit de partage, de bienveillance et de simplicité, où chaque cavalier et son cheval se sentent comme à la maison.",
+          "text": "Au-delà du cadre préservé et des soins rigoureux, le domaine est avant tout un lieu de vie familial et chaleureux. Nous tenons à préserver un esprit de partage, de bienveillance et de simplicité, où chaque cavalier et son cheval se sentent comme à la maison."
+        },
+        {
+          "id": "page-6-11",
+          "tag": "p",
+          "html": "Envie de découvrir la structure ou de venir partager un moment avec nous ? Contactez-nous !",
+          "text": "Envie de découvrir la structure ou de venir partager un moment avec nous ? Contactez-nous !"
+        },
+        {
+          "id": "page-6-12",
+          "tag": "p",
+          "html": "A très vite au Domaine!",
+          "text": "A très vite au Domaine!"
+        },
+        {
+          "id": "page-6-13",
+          "tag": "p",
+          "html": "<strong>Aurélia GD</strong>",
+          "text": "Aurélia GD"
+        },
+        {
+          "id": "page-6-14",
+          "tag": "p",
+          "html": "<br><strong>Suivez-nous sur les réseaux:</strong>",
+          "text": "Suivez-nous sur les réseaux:"
+        }
+      ],
+      "images": [],
+      "banners": [],
+      "logo": {
+        "url": "https://primary.jwwb.nl/public/o/m/i/temp-vcubilpemsuwkhasrwqb/i3xx37/20230619_logo-valpendragon_v2_blason-1.png?enable-io=true&enable=upscale&height=70",
+        "alt": "Domaine du Val Pendragon",
+        "local": "assets/photos/20230619_logo-valpendragon_v2_blason-1.png",
+        "sha256": "f4bc17d7786a0e29cd052f6d50c147541019f915fe57737c858e1f8651495475",
+        "originalUrl": "https://primary.jwwb.nl/public/o/m/i/temp-vcubilpemsuwkhasrwqb/i3xx37/20230619_logo-valpendragon_v2_blason-1.png"
+      },
+      "social": [
+        {
+          "label": "Facebook",
+          "href": "https://facebook.com/profile.php?id=100092726184827"
+        },
+        {
+          "label": "Instagram",
+          "href": "https://instagram.com/domaine_du_val_pendragon"
+        }
+      ],
+      "copyright": "© 2023 - 2026 Domaine du Val Pendragon",
+      "form": null
+    },
+    {
+      "path": "/renseignements",
+      "label": "Renseignements",
+      "key": "renseignements",
+      "nodes": [
+        {
+          "id": "page-7-0",
+          "tag": "h2",
+          "html": "Contact",
+          "text": "Contact"
+        },
+        {
+          "id": "page-7-1",
+          "tag": "h3",
+          "html": "Accueil sur rendez-vous",
+          "text": "Accueil sur rendez-vous"
+        },
+        {
+          "id": "page-7-2",
+          "tag": "h3",
+          "html": "<br>Oú nous trouver ?",
+          "text": "Oú nous trouver ?"
+        },
+        {
+          "id": "page-7-3",
+          "tag": "p",
+          "html": "Domaine du Val Pendragon&nbsp;",
+          "text": "Domaine du Val Pendragon"
+        },
+        {
+          "id": "page-7-4",
+          "tag": "p",
+          "html": "9 La Grohandais",
+          "text": "9 La Grohandais"
+        },
+        {
+          "id": "page-7-5",
+          "tag": "p",
+          "html": "35290 Muel",
+          "text": "35290 Muel"
+        },
+        {
+          "id": "page-7-6",
+          "tag": "h3",
+          "html": "<br>Comment nous contacter ?",
+          "text": "Comment nous contacter ?"
+        },
+        {
+          "id": "page-7-7",
+          "tag": "p",
+          "html": "Tel:&nbsp;06 87 33 20 50",
+          "text": "Tel: 06 87 33 20 50"
+        },
+        {
+          "id": "page-7-8",
+          "tag": "p",
+          "html": "Mail: <a href=\"mailto:domaineduvalpendragon@gmail.com\">domaineduvalpendragon@gmail.com</a>",
+          "text": "Mail: domaineduvalpendragon@gmail.com"
+        },
+        {
+          "id": "page-7-9",
+          "tag": "p",
+          "html": "Formulaire de contact:",
+          "text": "Formulaire de contact:"
+        },
+        {
+          "id": "page-7-10",
+          "tag": "h3",
+          "html": "Suivez-nous sur les réseaux:",
+          "text": "Suivez-nous sur les réseaux:"
+        }
+      ],
+      "images": [],
+      "banners": [
+        {
+          "url": "https://primary.jwwb.nl/public/o/m/i/temp-vcubilpemsuwkhasrwqb/7339aef5-89f5-4956-a5fb-5460282b8e50.jpeg?enable-io=true&enable=upscale&crop=1600%2C752%2Cx0%2Cy224%2Csafe&width=1020&height=479",
+          "alt": "",
+          "local": "assets/photos/7339aef5-89f5-4956-a5fb-5460282b8e50.jpeg",
+          "sha256": "c88ea1e0eddeb599fbc37b4b8b12aa0bc666809a9fe366afd9e3780efb310b29",
+          "originalUrl": "https://primary.jwwb.nl/public/o/m/i/temp-vcubilpemsuwkhasrwqb/7339aef5-89f5-4956-a5fb-5460282b8e50.jpeg"
+        }
+      ],
+      "logo": {
+        "url": "https://primary.jwwb.nl/public/o/m/i/temp-vcubilpemsuwkhasrwqb/i3xx37/20230619_logo-valpendragon_v2_blason-1.png?enable-io=true&enable=upscale&height=70",
+        "alt": "Domaine du Val Pendragon",
+        "local": "assets/photos/20230619_logo-valpendragon_v2_blason-1.png",
+        "sha256": "f4bc17d7786a0e29cd052f6d50c147541019f915fe57737c858e1f8651495475",
+        "originalUrl": "https://primary.jwwb.nl/public/o/m/i/temp-vcubilpemsuwkhasrwqb/i3xx37/20230619_logo-valpendragon_v2_blason-1.png"
+      },
+      "social": [
+        {
+          "label": "Facebook",
+          "href": "https://facebook.com/profile.php?id=100092726184827"
+        },
+        {
+          "label": "Instagram",
+          "href": "https://instagram.com/domaine_du_val_pendragon"
+        }
+      ],
+      "copyright": "© 2023 - 2026 Domaine du Val Pendragon",
+      "form": {
+        "fields": [
+          {
+            "label": "Nom *",
+            "type": "text"
+          },
+          {
+            "label": "Adresse e-mail *",
+            "type": "email"
+          },
+          {
+            "label": "Message *",
+            "type": "textarea"
+          }
+        ],
+        "submit": "Envoyer le formulaire"
+      }
+    }
+  ]
+}
